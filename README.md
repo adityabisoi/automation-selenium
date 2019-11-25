@@ -6,9 +6,11 @@ Automation testing using selenium in python
 
 pip install selenium
 
-## Running the tests
+## Running
 
 python aytomation.py
+
+
 
 
 ## Built With
