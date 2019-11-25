@@ -10,8 +10,9 @@ pip install selenium
 
 python aytomation.py
 
+## Description
 
-
+Script to automate form inputs in a website
 
 ## Built With
 
